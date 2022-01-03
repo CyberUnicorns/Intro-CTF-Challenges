@@ -10,3 +10,5 @@ Open source repository for beginner CTF challenges!
 ### [Challenge 4](https://cyberunicorns.github.io/Intro-CTF-Challenges/c4/) - Login
 
 ### [Challenge 5](https://github.com/CyberUnicorns/Intro-CTF-Challenges/tree/main/c5) - Sneaky Password
+
+### [Challenge 6](https://github.com/CyberUnicorns/Intro-CTF-Challenges/tree/main/c6) - Coding 101
